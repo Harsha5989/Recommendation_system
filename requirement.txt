@@ -2,4 +2,8 @@ pandas
 numpy
 matplotlib
 nltk
+scipy
+seaborn
+scikit-learn
+
 -e .
